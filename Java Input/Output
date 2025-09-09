@@ -1,0 +1,14 @@
+Java Input/Output
+Difficulty: Basic
+Q1.Given a string S and an integer number N, print the output in the form: "The input string :S" and "The input integer :N" in the two separate lines.
+
+CODE: 
+
+class Solution {
+    static void printIntString(String S, int N) {
+        // code here
+        Scanner sc=new Scanner(System.in);
+        System.out.println("The input string :"+S);
+        System.out.println("The input integer :"+N);
+    }
+}
