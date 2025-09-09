@@ -20,7 +20,7 @@ c/a=3.0
 a/d=0
 
 CODE:
-class Geeks {
+class Main {
 
     // Function to do operations with different data types
     static void dataTypes(int a, float b, double c, long l, byte d) {
